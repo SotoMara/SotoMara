@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Kirill
-- I'm QA
+- 👋 Hi, I’m Kirll
+- 👀 I’m QA
