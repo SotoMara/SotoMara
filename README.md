@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Kirll
 - 👀 I’m QA
+- 💞️ I'm looking for a good team
